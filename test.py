@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import random
 # nums=random.choices(range(1,7),k=5)
 # print(nums)
